@@ -1,5 +1,8 @@
 # Style Guide for CS&141 class
 
+*   author: Linda Zuvich
+*   editor: Thapana Berpan
+
 ## Table of Content
 
 *	Naming Conventions 
