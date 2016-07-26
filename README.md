@@ -73,7 +73,9 @@ while (!done) {
 }
 ~~~~
 *	Do not define two variables on the same line:
+~~~~
 int dimes = 0, nickels = 0; // BAD
+~~~~
 Instead, use two separate definitions:
 ~~~~
 int dimes = 0; // GOOD
